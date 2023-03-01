@@ -13,6 +13,7 @@ import org.slf4j.Logger;
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(FirstMod.MOD_ID)
 public class FirstMod {
+    // test comment
     public static final String MOD_ID = "firstmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
